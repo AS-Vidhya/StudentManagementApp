@@ -23,13 +23,13 @@ This is a basic ASP.NET MVC web application designed to manage student informati
 - **Views** – Razor-based pages to display data (Home, Students, Shared)  
 - **Migrations** – For database version control using EF  
 - **Web.config** – Project configuration and database connection settings  
-- **Scripts & Content** – (Optional) Bootstrap, jQuery, and CSS files for UI/UX
+- **Scripts & Content** – include Bootstrap, jQuery, and CSS files for UI/UX
 
 ##  How to Run the Project
 
 1. Clone or download the repository
-2. Open the solution (`.sln` file) in Visual Studio
-3. Update the SQL Server connection string in `Web.config`
+2. Open the solution (sln file) in Visual Studio
+3. Update the SQL Server connection string in Web.config
 4. Open the Package Manager Console and run:
 5. Build and run the project (F5 or Ctrl+F5)
 
